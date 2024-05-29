@@ -1,0 +1,2 @@
+I am interested in taking CMSC320 because I want to discover new ways to visualize and manipulate data via different tools.
+I have previously done so through R, but personally found it difficult to work with. However, having previous experience with Python, I believe data visualization would be so much easier and cooler!
